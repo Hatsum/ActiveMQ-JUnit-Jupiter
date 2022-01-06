@@ -1,0 +1,16 @@
+*~
+*.swp
+.idea
+.idea/*
+*.iml
+*.ipr
+*.iws
+target
+.DS_Store
+.project
+.classpath
+.settings
+dependency-reduced-pom.xml
+velocity.log
+
+/.metadata
